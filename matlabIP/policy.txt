@@ -1,0 +1,3 @@
+ grant codeBase "file:I:/-" {
+    permission java.security.AllPermission;
+  };
